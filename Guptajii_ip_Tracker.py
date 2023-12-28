@@ -4,9 +4,9 @@ banner() {
     clear
     echo -e "\e[1;31m"
     if ! [ -x "$(command -v figlet)" ]; then
-        echo 'Introducing SpS'
+        echo 'Introducing'
     else
-                 figlet SpS
+                 figlet 
     fi
     if ! [ -x "$(command -v toilet)" ]; then
         echo -e "\e[4;34m This Tool Was Created By \e[1;32mGuptajiiHackers \e[0m"
