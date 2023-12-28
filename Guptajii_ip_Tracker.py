@@ -12,8 +12,8 @@ banner() {
         echo -e "\e[4;34m This Tool Was Created By \e[1;32mGuptajiiHackers \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        figlet GuptajiiHackers
-    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92mCode by : \033[1;97m   SpS	    \033[1;93m[\033[1;77m::\033[1;93m]"
+        figlet GuptajiiHacker
+    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92mCode by : \033[1;97m   VipKrishnaGuptajii	    \033[1;93m[\033[1;77m::\033[1;93m]"
 	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mYouTube : \033[1;97m GuptajiHackers\033[1;93m[\033[1;77m::\033[1;93m]\n"
    fi
      echo " "
