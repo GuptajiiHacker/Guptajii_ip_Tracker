@@ -14,7 +14,7 @@ banner() {
         echo -e "\e[1;34mCreated By \e[1;34m"
         figlet GuptajiiHacker
     printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92mCode by : \033[1;97m   VipKrishnaGuptajii	    \033[1;93m[\033[1;77m::\033[1;93m]"
-	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mYouTube : \033[1;97m GuptajiHackers\033[1;93m[\033[1;77m::\033[1;93m]\n"
+	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mInstagram : \033[1;97m Its_Vip_Krishna_Gupta\033[1;93m[\033[1;77m::\033[1;93m]\n"
    fi
      echo " "
    
