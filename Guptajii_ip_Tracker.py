@@ -4,17 +4,17 @@ banner() {
     clear
     echo -e "\e[1;31m"
     if ! [ -x "$(command -v figlet)" ]; then
-        echo 'Introducing'
+        echo 'Introducing SpS'
     else
-                 figlet 
+                 figlet SpS
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Tool Was Created By \e[1;32mGuptajiiHackers \e[0m"
+        echo -e "\e[4;34m This Tool Was Created By \e[1;32mpriyans0830m \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        figlet GuptajiiHacker
-    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92mCode by :VipKrishna\033[1;97m   VipKrishnaGuptajii	    \033[1;93m[\033[1;77m::\033[1;93m]"
-	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mInstagram : \033[1;97m Its_Vip_Krishna_Gupta\033[1;93m[\033[1;77m::\033[1;93m]\n"
+        figlet Priyans0830m 
+    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92mCode by : \033[1;97m   SpS	    \033[1;93m[\033[1;77m::\033[1;93m]"
+	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mYouTube : \033[1;97m priyans0830m \033[1;93m[\033[1;77m::\033[1;93m]\n"
    fi
      echo " "
    
