@@ -9,12 +9,12 @@ banner() {
                  figlet Vip
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Tool Was Created By \e[1;32mpriyans0830m \e[0m"
+        echo -e "\e[4;34m This Tool Was Created By \e[1;32KrishnaGuptajii \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        figlet Priyans0830m 
-    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92mCode by : \033[1;97m   SpS	    \033[1;93m[\033[1;77m::\033[1;93m]"
-	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mYouTube : \033[1;97m priyans0830m \033[1;93m[\033[1;77m::\033[1;93m]\n"
+        figlet KrishnaGuptajii
+    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92mCode by : \033[1;97m   KrishnaGupta	    \033[1;93m[\033[1;77m::\033[1;93m]"
+	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92minstagram : \033[1;97m Its_Vip_KrishnaGupta \033[1;93m[\033[1;77m::\033[1;93m]\n"
    fi
      echo " "
    
