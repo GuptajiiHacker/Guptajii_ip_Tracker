@@ -9,7 +9,7 @@ banner() {
                  figlet Vip
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Tool Was Created By \e[1;32KrishnaGuptajii \e[0m"
+        echo -e "\e[4;34m This Tool Was Created By \e[1;32 KrishnaGuptajii \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
         figlet KrishnaGuptajii
