@@ -1,8 +1,8 @@
 ![Screenshot_20240121_130452](https://github.com/GuptajiiHacker/Guptajii_ip_Tracker/assets/155041576/be6bd682-4baf-4016-9b14-b82ab19e3c02)
 ![Screenshot_20240121_130850](https://github.com/GuptajiiHacker/Guptajii_ip_Tracker/assets/155041576/6c813f8b-c812-42d3-9a99-1ade94d183f6)
-## What is IP-Tracer ?
+## What is IP-Tracker ?
 
-IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and Linux based systems. you can easily retrieve ip address information using IP-Tracer. IP-Tracer use ip-api to track ip address.
+IP-Tracer is used to track an ip address. IP-TracKer is developed for Termux and Linux based systems. you can easily retrieve ip address information using IP-Tracer. IP-Tracer use ip-api to track ip address.
 
 <p align="center">
 <img width="47%"![Screenshot_20240121_130452](https://github.com/GuptajiiHacker/Guptajii_ip_Tracker/assets/155041576/7a8dcc4c-5189-4188-8f0c-dc634c32d45d)
@@ -11,7 +11,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 "/>
 </p>
 
-## How to install IP-Tracer ?
+## How to install IP-Tracker ?
 
 * `apt update`
 
@@ -26,7 +26,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 
 
-## How to use IP-Tracer
+## How to use IP-Tracker 
 
 * `trace -m` to track your own ip address.
 
