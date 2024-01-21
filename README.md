@@ -15,11 +15,11 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `git clone https://github.com/HackerGuptajii/Guptajii_ip_Tracker.py.git`
 
-* `cd Guptajii_ip_Tracker.py
+* `cd Guptajii_ip_Tracker`
 
-* `chmod +x install`
+* `bash Guptajii_ip_Tracker.py`
 
-* `sh install` or `./install`
+
 
 
 ## How to use IP-Tracer
